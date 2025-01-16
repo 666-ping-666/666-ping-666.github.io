@@ -1,2 +1,2 @@
 # 666-ping-666.github.io
-Personal blog
+# Welcome to Jason's personal github website
